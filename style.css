@@ -1,0 +1,63 @@
+body {
+  margin-left: 300px;
+  margin-right: 300px;
+  
+  background-color: black;
+  
+  font-family: "Helvetica";
+  color: white;
+}
+
+mark.red {
+  color: #E82529;
+  background: none;
+}
+
+mark.blue {
+  color: #A5DAEA;
+  background: none;
+}
+
+h1 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+  font-size: 80px;
+}
+
+h2 {
+  margin-top: 100px;
+  text-align: center;
+  font-size: 70px;
+  color: #F6EC44;
+}
+
+h3 {
+  margin-top: 62px;
+  margin-bottom: 62px;
+  font-size: 45px;
+  float: left;
+}
+
+p {
+  margin-top: 50px;
+  font-size: 25px;
+}
+
+ul {
+  font-size: 25px;
+}
+
+.logo {
+  display: block;
+  margin: auto;
+  margin-bottom: 20px;
+  width 10%;
+  float:none;
+}
+img {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  float: right;
+  clear: both;
+}
